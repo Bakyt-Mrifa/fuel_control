@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="fuel_control">
+    <output-path>$PROJECT_DIR$/out/artifacts/fuel_control</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="D:\Bakyt\distr\projects\DB\2.Maven\fuel_control\src\main\java\kg\rifah\Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="fuel_control.jar">
+        <element id="module-output" name="fuel_control" />
+      </element>
+    </root>
+  </artifact>
+</component>
